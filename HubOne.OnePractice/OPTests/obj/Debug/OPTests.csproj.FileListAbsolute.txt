@@ -1,0 +1,14 @@
+C:\s\opgit\HubOne.OnePractice\OPTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\s\opgit\HubOne.OnePractice\OPTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\s\opgit\HubOne.OnePractice\OPTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\s\opgit\HubOne.OnePractice\OPTests\bin\Debug\OPTests.dll
+C:\s\opgit\HubOne.OnePractice\OPTests\bin\Debug\OPTests.pdb
+C:\s\opgit\HubOne.OnePractice\OPTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\s\opgit\HubOne.OnePractice\OPTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\s\opgit\HubOne.OnePractice\OPTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\s\opgit\HubOne.OnePractice\OPTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\s\opgit\HubOne.OnePractice\OPTests\obj\Debug\OPTests.csprojAssemblyReference.cache
+C:\s\opgit\HubOne.OnePractice\OPTests\obj\Debug\OPTests.csproj.CoreCompileInputs.cache
+C:\s\opgit\HubOne.OnePractice\OPTests\obj\Debug\OPTests.csproj.CopyComplete
+C:\s\opgit\HubOne.OnePractice\OPTests\obj\Debug\OPTests.dll
+C:\s\opgit\HubOne.OnePractice\OPTests\obj\Debug\OPTests.pdb

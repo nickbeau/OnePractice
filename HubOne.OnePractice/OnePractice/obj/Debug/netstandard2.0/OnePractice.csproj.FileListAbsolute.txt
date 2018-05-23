@@ -1,0 +1,9 @@
+C:\s\opgit\HubOne.OnePractice\OnePractice\bin\Debug\netstandard2.0\OnePractice.deps.json
+C:\s\opgit\HubOne.OnePractice\OnePractice\bin\Debug\netstandard2.0\OnePractice.dll
+C:\s\opgit\HubOne.OnePractice\OnePractice\bin\Debug\netstandard2.0\OnePractice.pdb
+C:\s\opgit\HubOne.OnePractice\OnePractice\obj\Debug\netstandard2.0\OnePractice.csprojAssemblyReference.cache
+C:\s\opgit\HubOne.OnePractice\OnePractice\obj\Debug\netstandard2.0\OnePractice.csproj.CoreCompileInputs.cache
+C:\s\opgit\HubOne.OnePractice\OnePractice\obj\Debug\netstandard2.0\OnePractice.AssemblyInfoInputs.cache
+C:\s\opgit\HubOne.OnePractice\OnePractice\obj\Debug\netstandard2.0\OnePractice.AssemblyInfo.cs
+C:\s\opgit\HubOne.OnePractice\OnePractice\obj\Debug\netstandard2.0\OnePractice.dll
+C:\s\opgit\HubOne.OnePractice\OnePractice\obj\Debug\netstandard2.0\OnePractice.pdb
